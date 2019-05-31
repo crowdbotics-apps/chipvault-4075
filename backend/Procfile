@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT chipvault_4075.wsgi:application

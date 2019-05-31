@@ -1,0 +1,3 @@
+rootProject.name = 'chipvault_4075'
+
+include ':app'
